@@ -54,4 +54,4 @@ Open your web browser and go to `http://localhost:8001/docs`.
 Use tools like `curl` or Postman to interact with the API endpoints for testing purposes.
 
 ## Contact
-For any issues or questions, please contact me at [adesht15@.com].
+For any issues or questions, please contact me at [adesht15@gmail.com].
